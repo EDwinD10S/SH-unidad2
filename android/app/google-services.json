@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "572605575375",
+    "firebase_url": "https://appinventario-d237b-default-rtdb.firebaseio.com",
+    "project_id": "appinventario-d237b",
+    "storage_bucket": "appinventario-d237b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572605575375:android:89e7c5a257e351d19207ba",
+        "android_client_info": {
+          "package_name": "com.example.equipo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCtLQKjsNSxpAbvx2F1q4yk5W_7QPVVAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572605575375:android:5efd6a50efc0b9689207ba",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCtLQKjsNSxpAbvx2F1q4yk5W_7QPVVAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
