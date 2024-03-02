@@ -23,4 +23,4 @@ class MyApp extends StatelessWidget {
       home: const AuthPage(), // Establece la página inicial como la página de autenticación
     );
   }
-}
+}  
